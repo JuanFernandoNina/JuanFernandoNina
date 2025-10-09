@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Estudiante%20de%20Ingeniería%20de%20Sistemas;Desarrollo%20Apps%20Móviles%20con%20Flutter;Diseñador%20Gráfico;Siempre%20aprendiendo%20nuevas%20cosas%20🚀&center=true&width=440&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Systems%20Engineering%20Student;Mobile%20App%20Developer%20with%20Flutter;Graphic%20Designer;Always%20learning%20new%20things%20🚀&center=true&width=440&height=45">
   </a>
 </p>
 
@@ -20,17 +20,17 @@
 
 ---
 
-- 🎓 Soy estudiante de **Ingeniería de Sistemas**.  
-- 💻 Desarrollo **aplicaciones móviles Android e iOS** con **Flutter**.  
-- ✏️ Manejo herramientas como **Visual Studio Code**, **Git**, **Adobe XD**, **Figma** y **GitHub**.  
-- 🚀 Siempre busco aprender nuevas tecnologías para mejorar mis proyectos.  
-- 📧 Puedes contactarme en: **juanfernandoninac@gmail.com**
+- 🎓 I’m a **Systems Engineering student**.  
+- 💻 I develop **mobile applications for Android and iOS** using **Flutter**.  
+- ✏️ I use tools like **Visual Studio Code**, **Git**, **Adobe XD**, **Figma**, and **GitHub**.  
+- 🚀 Always learning new technologies to improve my projects.  
+- 📧 You can reach me at: **juanfernandoninac@gmail.com**
 
 ---
 
 ## 🛠 &nbsp;Tech Stack
 
-#### 🔧 Lenguajes
+#### 🔧 Languages
 
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -41,19 +41,19 @@
 
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
-#### 🎨 Diseño
+#### 🎨 Design
 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-%23FF61F6.svg?style=for-the-badge&logo=adobe%20xd&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-#### 🔧 Herramientas
+#### 🔧 Tools
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <!--
-#### 📚 Librerías (por agregar en el futuro)
+#### 📚 Libraries (for future updates)
 
 ![Numpy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -61,7 +61,7 @@
 
 ---
 
-## 📊 Estadísticas del Perfil
+## 📊 Profile Statistics
 
 <div align=center>
 
@@ -70,7 +70,7 @@
 
 </div>
 
-### ⏱ Racha de Actividad
+### ⏱ Streak Stats
 
 <div align=center>
   
@@ -78,21 +78,21 @@
 
 </div>
 
-### 📈 Actividad Reciente
+### 📈 Activity Graph
 
 [![Juan Fernando’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JuanFernando&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### 📊 Lenguajes Más Usados
+### 📊 Most Used Languages
 
 <div align=center>
   
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=JuanFernando&show_icons=true&locale=es&layout=compact&theme=radical)]()
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=JuanFernando&show_icons=true&locale=en&layout=compact&theme=radical)]()
   
 </div>
 
 ---
 
-### 🔗 &nbsp;Contáctame
+### 🔗 &nbsp;Contact Me
 
 <div align="center">
 <a href="mailto:juanfernandoninac@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -100,9 +100,10 @@
 
 ---
 
-<h6 align="center">✨ Siempre aprendiendo, creando y compartiendo ✨</h6>
+<h6 align="center">✨ Always learning, creating and sharing ✨</h6>
 
 ---
 
 <h6 align="center">Credit: [Juan Fernando](https://github.com/JuanFernando)</h6>
+
 <!-- Last Edited on: 08/10/2025 --->
