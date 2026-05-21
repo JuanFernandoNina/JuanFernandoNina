@@ -13,67 +13,95 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/JuanFernando" align="center">
-    <img align="center" alt="" src="https://visitor-badge.laobi.icu/badge?page_id=JuanFernando.JuanFernando">
+  <a href="https://github.com/JuanFernandoNina" align="center">
+    <img align="center" alt="" src="https://visitor-badge.laobi.icu/badge?page_id=JuanFernandoNina.JuanFernandoNina">
   </a>
 </p>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</a>
 
+## 👨‍💻 About Me
 
-- 🎓 I’m a **Systems Engineering student**.  
+- 🎓 I'm a **Systems Engineering student**.  
 - 💻 I develop **mobile applications for Android and iOS** using **Flutter**.  
 - ✏️ I use tools like **Visual Studio Code**, **Git**, **Adobe XD**, **Figma**, and **GitHub**.  
 - 🚀 Always learning new technologies to improve my projects.  
 - 📧 You can reach me at: **juanfernandoninac@gmail.com**
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</a>
 
-## 🛠 &nbsp;Tech Stack
+# 🛠 &nbsp;Tech Stack
 
-#### 🔧 Languages
+### 🔧 Languages
 
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
-#### 🖥️ Frameworks
+### 🖥️ Frameworks
 
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
-#### 🎨 Design
+### 🎨 Design
 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-%23FF61F6.svg?style=for-the-badge&logo=adobe%20xd&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-#### 🔧 Tools
+### 🔧 Tools
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<!--
-#### 📚 Libraries (for future updates)
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</a>
 
-![Numpy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
--->
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-
-### 🔗 &nbsp;Contact Me
+# 📊 GitHub Stats:
 
 <div align="center">
-<a href="mailto:juanfernandoninac@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+![](https://github-readme-stats.shion.dev/api?username=JuanFernandoNina&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://streak-stats.demolab.com/?user=JuanFernandoNina&theme=github_dark_dimmed&hide_border=false)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=JuanFernandoNina&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</a>
+
+## 🔗 &nbsp;Contact Me
+
+<div align="center">
+
+<a href="mailto:juanfernandoninac@gmail.com">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </div>
 
 ---
+
 <h6 align="center">✨ Always learning, creating and sharing ✨</h6>
 
 ---
 
-<h6 align="center">Credit: [Juan Fernando](https://github.com/JuanFernando)</h6>
+<h6 align="center">
+  Credit: <a href="https://github.com/JuanFernandoNina">Juan Fernando</a>
+</h6>
+
+<div align="center">
+   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient" />
+</div>
+
+<!-- Last Edited on: 21/05/2026 -->
 
 <!-- Last Edited on: 08/10/2025 --->
